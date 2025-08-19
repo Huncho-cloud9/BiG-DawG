@@ -29,11 +29,16 @@ public class AgeCal{
     System.out.print("Enter your birthYear : ");
     birthYear = scanner.nextInt();
     int result = 2025 - birthYear;
-    System.out.printIn("You are currently" + result + "years old");
+    System.out.println("You are currently" + result + "years old");
     }
 }
 
-import 
+Scanner newscanner = new Scanner(System.in);
+int DOB;
+String name;
+System.out.print(s:"what is your name");
+name = newscanner.next();
+System.
 
 
 
