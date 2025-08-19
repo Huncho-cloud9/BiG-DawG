@@ -2,3 +2,12 @@ initialize
 repository
 tracking
 commit
+
+//to track
+git add
+
+//to commit
+git commit -m"love everybody"
+
+//to push
+git push
